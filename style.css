@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-    color: #f04;
+    color: #f0c;
     background-color: #3dc;
     font-size: 2em;
     margin: 0;
@@ -17,9 +17,10 @@ h1 {
     padding: 4px;
     font-style: italic;
     text-align: center;
+    letter-spacing: 0.2em;
     border-bottom-style: solid;
     border-bottom-width: 0.5em;
-    border-bottom-color: #910;
+    border-bottom-color: #c10;
 }
 h2 {
     border-style: dashed;
