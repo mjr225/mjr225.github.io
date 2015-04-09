@@ -12,8 +12,8 @@ h1 {
     background-color: #339999;
     font-size: 2em;
     margin: 0;
+    padding: 0 0 10px 0;
     margin-bottom: 7px;
-    padding: 4px;
     font-style: thin;
     text-align: center;
     border-bottom-style: solid;
@@ -55,10 +55,6 @@ nav li a {
 #content {
     border: 1px solid;
 }
-#selected {
-    padding-bottom: 1px; 
-    background: white;
-}
 #header li {
     float: left;
     border: 1px solid;
@@ -69,12 +65,12 @@ nav li a {
     border: 1px solid;
     clear: both;
 }
-h1 {
-    margin: 0;
-    padding: 0 0 10px 0;
-}
 #selected {
     position: relative;
     top: 1px;
     background: white;
+}
+#content {
+    border: 1px solid;
+    clear: both;
 }
