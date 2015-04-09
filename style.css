@@ -10,17 +10,17 @@ body {
 
 h1 {
     color: #ffc;
-    background-color: #900;
+    background-color: #700;
     font-size: 2em;
     margin: 0;
     margin-bottom: 7px;
     padding: 4px;
     font-style: italic;
     text-align: center;
-    letter-spacing: 0.5em;
+    letter-spacing: 0.2em;
     border-bottom-style: solid;
     border-bottom-width: 0.5em;
-    border-bottom-color: #c00;
+    border-bottom-color: #c10;
 }
 h2 {
     border-style: dashed;
