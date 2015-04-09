@@ -28,7 +28,7 @@ h2 {
     border-color: orange;
 }
 h3 {
-    color: $ff3;
+    color: #ff3;
     border-style: groove;
     border-width: 2px;
     border-left-width: 4px;
