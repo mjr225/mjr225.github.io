@@ -6,11 +6,6 @@ body {
 }
 section {
     background-color: #989898;
-    border-style: groove;
-    border-width: 2px;
-    border-left-width: 4px;
-    border-right-width: 4px;
-    border-color: green;
 }
 h1 {
     color: #fff;
@@ -31,6 +26,14 @@ h2 {
     border-left-width: 10px;
     border-right-width: 10px;
     border-color: orange;
+}
+h3 {
+    color: $ff3;
+    border-style: groove;
+    border-width: 2px;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-color: green;
 }
 table {
     background-color: #ccc;
