@@ -2,6 +2,9 @@
 
 body {
     font-size: 14px;
+}
+p {
+    border-radius: 5px;
     background-color: #989898;
 }
 section {
