@@ -4,7 +4,10 @@ body {
     font-size: 14px;
     background-color: #989898;
 }
-
+section {
+    background-color: #989898;
+    
+}
 h1 {
     color: #fff;
     background-color: #339999;
