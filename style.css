@@ -15,9 +15,8 @@ h1 {
     margin: 0;
     margin-bottom: 7px;
     padding: 4px;
-    font-style: italic;
+    font-style: thin;
     text-align: center;
-    letter-spacing: 0.2em;
     border-bottom-style: solid;
     border-bottom-width: 0.5em;
     border-bottom-color: #663333;
