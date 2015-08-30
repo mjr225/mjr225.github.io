@@ -1,0 +1,78 @@
+# mjr225.github.io
+
+body {
+    font-size: 14px;
+}
+p {
+    border-radius: 5px;
+    background-color: #989898;
+}
+section {
+}
+h1 {
+    color: #fff;
+    background-color: #339999;
+    font-size: 2em;
+    margin: 0;
+    padding: 0 0 10px 0;
+    margin-bottom: 7px;
+    font-style: thin;
+    text-align: center;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: #663333;
+}
+h2 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: orange;
+}
+h3 {
+    color: #ff3;
+    border-style: groove;
+    border-width: 2px;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-color: green;
+}
+table {
+    background-color: #ccc;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    display: inline;
+    border: solid;
+    border-width: 1px 1px 0 1px;
+    margin: 0 5px
+}
+nav li a {
+    padding: 0 10px;
+}
+#content {
+    border: 1px solid;
+}
+#header li {
+    float: left;
+    border: 1px solid;
+    border-bottom-width: 0;
+    margin: 0 5px 0 0;
+}
+#content {
+    border: 1px solid;
+    clear: both;
+}
+#selected {
+    position: relative;
+    top: 1px;
+    background: white;
+}
+#content {
+    border: 1px solid;
+    clear: both;
+}
