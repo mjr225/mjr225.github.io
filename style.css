@@ -10,12 +10,12 @@ p {
 section {
 }
 h1 {
-    color: red;
-    background-color: teal;
+    color: white;
+    background-color: #663333;
     font-size: 2em;
     margin: 0;
     padding: 0 0 10px 0;
-    margin-bottom: 7px;
+    margin-bottom: 2px;
     font-style: thin;
     text-align: center;
     border-bottom-style: solid;
